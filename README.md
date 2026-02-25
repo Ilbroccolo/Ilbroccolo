@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Ciao! Sono Joseph</h1>
-  <h3>👨‍💻 Studente di Informatica | Code & Coffee ☕</h3>
+  <h3>👨💻 Studente di Informatica | Code & Coffee ☕</h3>
   
   <p>
     <em>Questo profilo GitHub è il mio taccuino digitale e archivio accademico personale.</em>
@@ -19,7 +19,8 @@
 Lo scopo principale di questo account è **raccogliere, organizzare e catalogare** tutti gli appunti, i progetti, gli esercizi e le risorse che incontro durante il mio percorso di studi in Informatica. È un modo per tenere traccia dei miei progressi e avere un archivio centrale per tutto il materiale del corso.
 
 > [!WARNING]
-> **Disclaimer Sulle Fonti:** > Al momento sto ancora definendo il metodo migliore per gestire e organizzare lo studio. Molti degli appunti presenti potrebbero basarsi su risorse trovate in Internet (nei quali cercherò sempre di segnare le fonti), tuttavia **le mie fonti primarie e di riferimento rimangono sempre i materiali ufficiali forniti dai docenti del corso**.
+> **Disclaimer Sulle Fonti:** 
+> Al momento sto ancora definendo il metodo migliore per gestire e organizzare lo studio. Molti degli appunti presenti potrebbero basarsi su risorse trovate in Internet (nei quali cercherò sempre di segnare le fonti), tuttavia **le mie fonti primarie e di riferimento rimangono sempre i materiali ufficiali forniti dai docenti del corso**.
 
 ---
 
@@ -31,10 +32,10 @@ Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre.
 
 | Semestre | Corso | Status | Contenuti Principali | Repository |
 | :---: | :--- | :---: | :--- | :---: |
-| **S1** | **Programmazione** | 💻 Iniziato | Appunti, Eserfficizi C/C++ | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S1-Programmazione) |
-| **S1** | **Analisi Matematica 1** | 🚧 Presto | Appunti LaTeX, Cheat-sheets | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Analisi-1) |
+| **S1** | **Programmazione** | 💻 Iniziato | Appunti, Esercizi C/C++ | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S1-Programmazione) |
+| **S1** | **Analisi Matematica 1** | 🚧 Presto | Appunti LaTeX, Cheat-sheets | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S1-Analisi-Matematica-1) |
 | **S2** | **Algoritmica** | ⚙️ Attivo | Strutture Dati, Algoritmi, LaTeX | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S2-Algoritmica) |
-| **S2** | **Architettura Elaboratori** | 🚧 Presto | Assembly, Logica Reti | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Architettura-Elaboratori) |
+| **S2** | **Architettura Elaboratori** | 🚧 Presto | Assembly, Logica Reti | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S2-Architettura-Elaboratori) |
 
 <br>
 <p align="right"><em>Tabella in continuo aggiornamento man mano che procedo con gli studi.</em></p>
