@@ -32,7 +32,7 @@ Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre.
 
 | Semestre | Corso | Status | Contenuti Principali | Repository |
 | :---: | :--- | :---: | :--- | :---: |
-| **S1** | **Laboratorio** | 💻 Iniziato | Appunti, Esercizi C/C++ | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S1-Programmazione) |
+| **S1** | **Laboratorio** | 💻 Iniziato | Appunti, Esercizi C/C++ | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Laboratorio-1) |
 | **S1** | **Analisi Matematica 1** | 🚧 Presto | Appunti LaTeX, Cheat-sheets | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Analisi) |
 | **S2** | **Algoritmica** | ⚙️ Attivo | Strutture Dati, Algoritmi, LaTeX | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1-Algoritmica) |
 | **S2** | **Fondamenti** | 🚧 Presto | Assembly, Logica Reti | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S2-Architettura-Elaboratori) |
