@@ -26,18 +26,16 @@ Lo scopo principale di questo account è raccogliere, organizzare e catalogare t
 <br />
 
 ## 📚 Indice degli Appunti 
-Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre. 
-
-All'interno di ogni materia potrai trovare **appunti completi in LaTeX strutturati come una Bibbia**, dispense PDF, slide ed esercizi di codice.
+Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre. All'interno di ogni materia potrai trovare appunti completi, dispense PDF, slide ed esercizi di codice.
 
 ### 🟢 Primo Anno (Y1)
 
 | Semestre | Materia | Repository Corrispondente | Stato |
 | :---: | :--- | :--- | :---: |
 | **S1** | Laboratorio 1 | [🔗 Uni-Laboratorio-1](https://github.com/Ilbroccolo/Uni-Laboratorio-1) | 🟢 |
-| **S1** | Analisi Matematica | [🔗 Uni-Analisi](https://github.com/Ilbroccolo/Uni-Analisi) | 🟢 |
+| **S1** | Algebra Lineare | [🔗 Uni-Algebra-Lineare](https://github.com/Ilbroccolo/Uni-Algebra-Lineare) | 🟢 |
 | **S2** | Programmazione ed Algoritmica | [🔗 Uni-Y1-Algoritmica](https://github.com/Ilbroccolo/Uni-Y1-Algoritmica)<br>[🔗 Uni-Y1.S2-Algoritmica](https://github.com/Ilbroccolo/Uni-Y1.S2-Algoritmica) | 🟡 In corso |
-| **S2** | Architettura degli Elaboratori | [🔗 Uni-Y1.S2-Architettura-Elaboratori](https://github.com/Ilbroccolo/Uni-Y1.S2-Architettura-Elaboratori) | 🟡 In corso |
+| **S2** | Architettura degli Elaboratori (Fondamenti) | [🔗 Uni-Y1.S2-Architettura-Elaboratori](https://github.com/Ilbroccolo/Uni-Y1.S2-Architettura-Elaboratori) | 🟡 In corso |
 
 <br />
 
