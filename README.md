@@ -1,70 +1,47 @@
 <div align="center">
-  <h1>👋 Ciao! Sono Joseph</h1>
-  <h3>👨💻 Studente di Informatica | Code & Coffee ☕</h3>
-  
-  <p>
-    <em>Questo profilo GitHub è il mio taccuino digitale e archivio accademico personale.</em>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/Ilbroccolo?tab=followers"><img alt="Followers" title="Seguimi su Github" src="https://custom-icon-badges.demolab.com/github/followers/Ilbroccolo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/Ilbroccolo?tab=repositories&sort=stargazers"><img alt="Total Stars" title="Stelle totali su GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ilbroccolo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  </p>
+  <h1>👋 Ciao! Sono Joseph (@Ilbroccolo)</h1>
+  <h3>👨‍💻 Studente di Informatica | Code & Coffee ☕</h3>
 </div>
 
----
+<br />
 
-### 🎯 Lo scopo di questo Repository
+## 🎯 Obiettivo dell'Archivio
+Benvenuto nel mio **taccuino digitale e archivio accademico personale**. 
 
-Lo scopo principale di questo account è **raccogliere, organizzare e catalogare** tutti gli appunti, i progetti, gli esercizi e le risorse che incontro durante il mio percorso di studi in Informatica. È un modo per tenere traccia dei miei progressi e avere un archivio centrale per tutto il materiale del corso.
+Lo scopo principale di questo account è raccogliere, organizzare e catalogare tutti gli appunti, i progetti, gli esercizi e le risorse che incontro durante il mio percorso di studi in Informatica. È il mio modo per tenere traccia dei progressi ed avere un repository centrale strutturato per tutto il materiale dei corsi.
 
-> [!WARNING]
-> **Disclaimer Sulle Fonti:** 
-> Al momento sto ancora definendo il metodo migliore per gestire e organizzare lo studio. Molti degli appunti presenti potrebbero basarsi su risorse trovate in Internet (nei quali cercherò sempre di segnare le fonti), tuttavia **le mie fonti primarie e di riferimento rimangono sempre i materiali ufficiali forniti dai docenti del corso**.
+> **Disclaimer**: Al momento sto definendo il metodo migliore per organizzare lo studio. Molti appunti possono basarsi su risorse trovate in rete (delle quali cercherò sempre di riportare le fonti), tuttavia i miei punti fermi rimangono i materiali ufficiali forniti dai docenti.
 
----
+<br />
 
-## 📚 Indice degli Appunti (Archivio Accademico)
+## 💻 Tech Stack & Strumenti
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre. Clicca sui link per accedere ai materiali specifici di ogni materia (appunti completi in LaTeX strutturati come una *Bibbia*, dispense PDF, slide, esercizi di codice).
+*(In continuo aggiornamento...)*
+
+<br />
+
+## 📚 Indice degli Appunti 
+Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre. 
+
+All'interno di ogni materia potrai trovare **appunti completi in LaTeX strutturati come una Bibbia**, dispense PDF, slide ed esercizi di codice.
 
 ### 🟢 Primo Anno (Y1)
 
-| Semestre | Corso | Status | Contenuti Principali | Repository |
-| :---: | :--- | :---: | :--- | :---: |
-| **S1** | **Laboratorio** | 💻 Iniziato | Appunti, Esercizi C/C++ | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Laboratorio-1) |
-| **S1** | **Analisi Matematica 1** | 🚧 Presto | Appunti LaTeX, Cheat-sheets | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Analisi) |
-| **S2** | **Algoritmica** | ⚙️ Attivo | Strutture Dati, Algoritmi, LaTeX | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1-Algoritmica) |
-| **S2** | **Fondamenti** | 🚧 Presto | Assembly, Logica Reti | [Vai al Repo 🔗](https://github.com/Ilbroccolo/Uni-Y1.S2-Architettura-Elaboratori) |
+| Semestre | Materia | Repository Corrispondente | Stato |
+| :---: | :--- | :--- | :---: |
+| **S1** | Laboratorio 1 | [🔗 Uni-Laboratorio-1](https://github.com/Ilbroccolo/Uni-Laboratorio-1) | 🟢 |
+| **S1** | Analisi Matematica | [🔗 Uni-Analisi](https://github.com/Ilbroccolo/Uni-Analisi) | 🟢 |
+| **S2** | Programmazione ed Algoritmica | [🔗 Uni-Y1-Algoritmica](https://github.com/Ilbroccolo/Uni-Y1-Algoritmica)<br>[🔗 Uni-Y1.S2-Algoritmica](https://github.com/Ilbroccolo/Uni-Y1.S2-Algoritmica) | 🟡 In corso |
+| **S2** | Architettura degli Elaboratori | [🔗 Uni-Y1.S2-Architettura-Elaboratori](https://github.com/Ilbroccolo/Uni-Y1.S2-Architettura-Elaboratori) | 🟡 In corso |
 
-<br>
-<p align="right"><em>Tabella in continuo aggiornamento man mano che procedo con gli studi.</em></p>
-
----
-
-## 🧰 Linguaggi e Strumenti (in corso di apprendimento)
-
-<p align="center">
-  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;
-  <img alt="Spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp;
-  <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
-  <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
-  <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
-  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp;&nbsp;
-  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />&nbsp;&nbsp;
-  <img alt="LaTeX" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
-</p>
 <br />
 
 ---
-
-## 📊 Le mie Statistiche GitHub
-
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilbroccolo&show_icons=true&theme=gruvbox" alt="Statistiche GitHub di llbroccolo" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilbroccolo&theme=gruvbox&hide_border=true&background=0D1117" alt="Joseph's Streak" />
+  <i>Costruito con ☕ e tanto LaTeX</i>
 </div>
