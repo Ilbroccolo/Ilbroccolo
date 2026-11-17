@@ -42,9 +42,9 @@ Spazio dedicato ai miei progetti indipendenti, tra hardware, app e tool:
 | **Y1 · S1** | [**📘 Programmazione**](https://github.com/Ilbroccolo/UniPi-Programmazione) | 9 | *—* | Scritto / Pratico + Orale | 🟢 |
 | **Y1 · S2** | [**📘 Laboratorio 1**](https://github.com/Ilbroccolo/UniPi-Laboratorio-1) | 12 | *—* | Prova pratica / Progetto | 🟢 |
 | **Y1 · S2** | [**📘 Algoritmica**](https://github.com/Ilbroccolo/UniPi-Algoritmica) | 15 | Prof.ssa Linda Pagli *(Corso B)* | Scritto + Orale | 🟢 |
-| **Y1 · S2** | [**📘 Architettura degli Elaboratori**](https://github.com/Ilbroccolo/UniPi-Architettura-Elaboratori) | 9 | *—* | Scritto + Orale *(Verilog)* | 🟢 |
-| **Y2 · S2** | [**📘 Paradigmi di Programmazione**](https://github.com/Ilbroccolo/UniPi-Paradigmi-Programmazione) | 9 | Prof. Paolo Milazzo | Scritto + Orale | 🟡 In corso |
-| **Y2 · S2** | [**📘 Ricerca Operativa**](https://github.com/Ilbroccolo/UniPi-Ricerca-Operativa) | 6 | Prof. Luca Mencarelli | Compitini / Scritto + Orale | 🟡 In corso |
+| **Y1 · S2** | [**📘 Architettura degli Elaboratori**](https://github.com/Ilbroccolo/UniPi-Architettura-Elaboratori) | 9 | Prof. Danelutto / Torquati / Mencagli | Scritto + Orale *(Verilog)* | 🟢 |
+| **Y2 · S2** | [**📘 Paradigmi di Programmazione**](https://github.com/Ilbroccolo/UniPi-Paradigmi-Programmazione) | 9 | Prof. Milazzo / Prof.ssa Bodei | Scritto + Orale | 🟡 In corso |
+| **Y2 · S2** | [**📘 Ricerca Operativa**](https://github.com/Ilbroccolo/UniPi-Ricerca-Operativa) | 6 | Prof. Mencarelli / Prof. Novellani | Compitini / Scritto + Orale | 🟡 In corso |
 
 <br />
 
