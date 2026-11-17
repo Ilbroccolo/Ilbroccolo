@@ -28,7 +28,15 @@ Lo scopo principale di questo account è raccogliere, organizzare e catalogare t
 ## 📚 Indice degli Appunti 
 Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre. All'interno di ogni materia potrai trovare appunti completi, dispense PDF, slide ed esercizi di codice.
 
-### 🟢 Primo Anno (Y1)
+| Anno | Materia | Contenuto principale | Stato |
+| :---: | :--- | :--- | :---: |
+| **Y1** | Analisi Matematica | Teoria, eserciziari e schemi | 🟢 |
+| **Y1** | Algebra Lineare | Appunti ed esercizi | 🟢 |
+| **Y1** | Programmazione & Laboratorio 1 | Codice ed esercitazioni | 🟢 |
+| **Y1** | Algoritmica | Strutture dati e algoritmi | 🟢 |
+| **Y1** | Architettura degli Elaboratori | Dispense ed esercizi | 🟢 |
+| **Y2** | Paradigmi di Programmazione | Bibbia LaTeX, eserciziario e dispense | 🟡 In corso |
+| **Y2** | Ricerca Operativa | Bibbia LaTeX, formulari, lezioni MD | 🟡 In corso |
 
 | Semestre | Materia | Repository Corrispondente | Stato |
 | :---: | :--- | :--- | :---: |
