@@ -1,12 +1,12 @@
 <div align="center">
   <h1>👋 Ciao! Sono Joseph (@Ilbroccolo)</h1>
-  <h3>👨‍💻 Studente di Informatica @ Università di Pisa | Code &amp; Coffee ☕</h3>
+  <h3>👨‍💻 Studente di Informatica @ Università di Pisa (Corso B · INF-L) | Code &amp; Coffee ☕</h3>
 </div>
 
 <br />
 
 ## 🎯 Chi sono &amp; Obiettivo
-Benvenuto nel mio **spazio personale su GitHub**: qui raccolgo i miei **progetti hardware/software** e l'**archivio accademico** del Corso di Laurea in Informatica (Università di Pisa).
+Benvenuto nel mio **spazio personale su GitHub**: qui trovi i miei **progetti personali** e le **repository dedicate per ogni materia** del Corso di Laurea in Informatica (Università di Pisa), complete di schede esame, docenti, appunti e Bibbie in LaTeX.
 
 <br />
 
@@ -23,7 +23,7 @@ Benvenuto nel mio **spazio personale su GitHub**: qui raccolgo i miei **progetti
 <br />
 
 ## 🚀 Progetti Personali
-Spazio dedicato ai miei progetti indipendenti, tra hardware, app desktop e web:
+Spazio dedicato ai miei progetti indipendenti, tra hardware, app e tool:
 
 | Progetto | Descrizione | Stack | Stato |
 | :--- | :--- | :--- | :---: |
@@ -32,18 +32,19 @@ Spazio dedicato ai miei progetti indipendenti, tra hardware, app desktop e web:
 
 <br />
 
-## 📚 Università — [UniPi-Informatica](https://github.com/Ilbroccolo/UniPi-Informatica)
-Tutto il materiale universitario (Bibbie in LaTeX, dispense, formulari, lezioni e codice) è centralizzato in [**`UniPi-Informatica`**](https://github.com/Ilbroccolo/UniPi-Informatica):
+## 📚 Materie &amp; Esami (clicca sulla materia per aprire la sua repo)
+> 🗂️ Indice generale e database JSON: [**`UniPi-Informatica`**](https://github.com/Ilbroccolo/UniPi-Informatica) · 💬 [Regole &amp; Info Chat Telegram](https://github.com/Ilbroccolo/UniPi-Informatica/blob/main/database/Info_Chat_Telegram.md)
 
-| Anno / Sem. | Materia | Docente | Lezioni &amp; Materiale | Stato |
-| :---: | :--- | :--- | :--- | :---: |
-| **Y1 · S1** | [Analisi Matematica](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Analisi-Matematica) | Prof. Grisanti | Teoria, schemi, eserciziari e prove | 🟢 |
-| **Y1 · S1** | [Algebra Lineare](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Algebra-Lineare) | *—* | Bibbia LaTeX, capitoli ed esercizi | 🟢 |
-| **Y1 · S1** | [Programmazione &amp; Lab 1](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Programmazione) | *—* | Codice C/JS ed esercitazioni | 🟢 |
-| **Y1 · S2** | [Algoritmica](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Algoritmica) | *—* | Bibbia LaTeX, strutture dati e algoritmi | 🟢 |
-| **Y1 · S2** | [Architettura degli Elaboratori](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Architettura-Elaboratori) | *—* | Dispense, schemi ed esercizi | 🟢 |
-| **Y2 · S1** | [Paradigmi di Programmazione](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-2/Paradigmi-di-Programmazione) | Prof. Milazzo | Semantica, $\lambda$-calcolo, sistemi di tipi, Bibbia LaTeX | 🟡 In corso |
-| **Y2 · S1** | [Ricerca Operativa](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-2/Ricerca-Operativa) | Prof. Mencarelli | Modellazione PL/PLI, Simplesso, Grafi, Branch &amp; Bound, lezioni MD | 🟡 In corso |
+| Anno / Sem. | Materia (Repo dedicata) | CFU | Docente | Modalità | Stato |
+| :---: | :--- | :---: | :--- | :--- | :---: |
+| **Y1 · S1** | [**📘 Analisi Matematica**](https://github.com/Ilbroccolo/UniPi-Analisi-Matematica) | 12 | Prof. Grisanti / Prof.ssa Chiodaroli | Test / Scritto + Orale | 🟢 |
+| **Y1 · S1** | [**📘 Algebra Lineare**](https://github.com/Ilbroccolo/UniPi-Algebra-Lineare) | 6 | *—* | Scritto + Orale | 🟢 |
+| **Y1 · S1** | [**📘 Programmazione**](https://github.com/Ilbroccolo/UniPi-Programmazione) | 9 | *—* | Scritto / Pratico + Orale | 🟢 |
+| **Y1 · S2** | [**📘 Laboratorio 1**](https://github.com/Ilbroccolo/UniPi-Laboratorio-1) | 12 | *—* | Prova pratica / Progetto | 🟢 |
+| **Y1 · S2** | [**📘 Algoritmica**](https://github.com/Ilbroccolo/UniPi-Algoritmica) | 15 | Prof.ssa Linda Pagli *(Corso B)* | Scritto + Orale | 🟢 |
+| **Y1 · S2** | [**📘 Architettura degli Elaboratori**](https://github.com/Ilbroccolo/UniPi-Architettura-Elaboratori) | 9 | *—* | Scritto + Orale *(Verilog)* | 🟢 |
+| **Y2 · S2** | [**📘 Paradigmi di Programmazione**](https://github.com/Ilbroccolo/UniPi-Paradigmi-Programmazione) | 9 | Prof. Paolo Milazzo | Scritto + Orale | 🟡 In corso |
+| **Y2 · S2** | [**📘 Ricerca Operativa**](https://github.com/Ilbroccolo/UniPi-Ricerca-Operativa) | 6 | Prof. Luca Mencarelli | Compitini / Scritto + Orale | 🟡 In corso |
 
 <br />
 
