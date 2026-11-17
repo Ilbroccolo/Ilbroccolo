@@ -28,7 +28,6 @@ Spazio dedicato ai miei progetti indipendenti, tra hardware, app desktop e web:
 | Progetto | Descrizione | Stack | Stato |
 | :--- | :--- | :--- | :---: |
 | [**🤖 M.O.M.O.**](https://github.com/Ilbroccolo/M.O.M.O) | Smart companion interattivo da scrivania open-source con display touch e corona digitale | ESP32-S3 · C++ · OpenSCAD | 🟡 In sviluppo |
-| [**🥦 Broccolo**](https://github.com/Ilbroccolo/Broccolo) | Portfolio personale interattivo con scene 3D e galleria dinamica | React · Three.js · Vite | 🟢 Online |
 | *Prossimi progetti...* | *Spazio riservato a nuovi esperimenti e tool personali* | — | ⚪ |
 
 <br />
