@@ -1,50 +1,51 @@
 <div align="center">
   <h1>👋 Ciao! Sono Joseph (@Ilbroccolo)</h1>
-  <h3>👨‍💻 Studente di Informatica | Code & Coffee ☕</h3>
+  <h3>👨‍💻 Studente di Informatica @ Università di Pisa | Code &amp; Coffee ☕</h3>
 </div>
 
 <br />
 
-## 🎯 Obiettivo dell'Archivio
-Benvenuto nel mio **taccuino digitale e archivio accademico personale**. 
-
-Lo scopo principale di questo account è raccogliere, organizzare e catalogare tutti gli appunti, i progetti, gli esercizi e le risorse che incontro durante il mio percorso di studi in Informatica. È il mio modo per tenere traccia dei progressi ed avere un repository centrale strutturato per tutto il materiale dei corsi.
-
-> **Disclaimer**: Al momento sto definendo il metodo migliore per organizzare lo studio. Molti appunti possono basarsi su risorse trovate in rete (delle quali cercherò sempre di riportare le fonti), tuttavia i miei punti fermi rimangono i materiali ufficiali forniti dai docenti.
+## 🎯 Chi sono &amp; Obiettivo
+Benvenuto nel mio **spazio personale su GitHub**: qui raccolgo i miei **progetti hardware/software** e l'**archivio accademico** del Corso di Laurea in Informatica (Università di Pisa).
 
 <br />
 
-## 💻 Tech Stack & Strumenti
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-*(In continuo aggiornamento...)*
+## 💻 Tech Stack &amp; Strumenti
+![Swift](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 <br />
 
-## 📚 Indice degli Appunti 
-Qui trovi l'organizzazione dei miei repository, strutturati per anno e semestre. All'interno di ogni materia potrai trovare appunti completi, dispense PDF, slide ed esercizi di codice.
+## 🚀 Progetti Personali
+Spazio dedicato ai miei progetti indipendenti, tra hardware, app desktop e web:
 
-| Anno | Materia | Contenuto principale | Stato |
-| :---: | :--- | :--- | :---: |
-| **Y1** | Analisi Matematica | Teoria, eserciziari e schemi | 🟢 |
-| **Y1** | Algebra Lineare | Appunti ed esercizi | 🟢 |
-| **Y1** | Programmazione & Laboratorio 1 | Codice ed esercitazioni | 🟢 |
-| **Y1** | Algoritmica | Strutture dati e algoritmi | 🟢 |
-| **Y1** | Architettura degli Elaboratori | Dispense ed esercizi | 🟢 |
-| **Y2** | Paradigmi di Programmazione | Bibbia LaTeX, eserciziario e dispense | 🟡 In corso |
-| **Y2** | Ricerca Operativa | Bibbia LaTeX, formulari, lezioni MD | 🟡 In corso |
+| Progetto | Descrizione | Stack | Stato |
+| :--- | :--- | :--- | :---: |
+| [**🤖 M.O.M.O.**](https://github.com/Ilbroccolo/M.O.M.O) | Smart companion interattivo da scrivania open-source con display touch e corona digitale | ESP32-S3 · C++ · OpenSCAD | 🟡 In sviluppo |
+| [**🎓 StudyDashboard**](https://github.com/Ilbroccolo/StudyDashboard) | App macOS nativa per deep work (Pomodoro) e tutor socratico multi-agente | SwiftUI · Gemini · Ollama | 🟢 Attivo |
+| [**🥦 Broccolo**](https://github.com/Ilbroccolo/Broccolo) | Portfolio personale interattivo con scene 3D e galleria dinamica | React · Three.js · Vite | 🟢 Online |
+| *Prossimi progetti...* | *Spazio riservato a nuovi esperimenti e tool personali* | — | ⚪ |
 
-| Semestre | Materia | Repository Corrispondente | Stato |
-| :---: | :--- | :--- | :---: |
-| **S1** | Analisi Matematica | [🔗 Uni-Analisi](https://github.com/Ilbroccolo/Uni-Analisi) | 🟢 |
-| **S1** | Laboratorio 1 | [🔗 Uni-Laboratorio-1](https://github.com/Ilbroccolo/Uni-Laboratorio-1) | 🟢 |
-| **S1** | Algebra Lineare | [🔗 Uni-Algebra-Lineare](https://github.com/Ilbroccolo/Uni-Algebra-Lineare) | 🟢 |
-| **S2** | Programmazione ed Algoritmica | [🔗 Uni-Y1-Algoritmica](https://github.com/Ilbroccolo/Uni-Y1-Algoritmica)<br>[🔗 Uni-Y1.S2-Algoritmica](https://github.com/Ilbroccolo/Uni-Y1.S2-Algoritmica) | 🟡 In corso |
-| **S2** | Architettura degli Elaboratori (Fondamenti) | [🔗 Uni-Y1.S2-Architettura-Elaboratori](https://github.com/Ilbroccolo/Uni-Y1.S2-Architettura-Elaboratori) | 🟢 |
+<br />
+
+## 📚 Università — [UniPi-Informatica](https://github.com/Ilbroccolo/UniPi-Informatica)
+Tutto il materiale universitario (Bibbie in LaTeX, dispense, formulari, lezioni e codice) è centralizzato in [**`UniPi-Informatica`**](https://github.com/Ilbroccolo/UniPi-Informatica):
+
+| Anno / Sem. | Materia | Docente | Lezioni &amp; Materiale | Stato |
+| :---: | :--- | :--- | :--- | :---: |
+| **Y1 · S1** | [Analisi Matematica](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Analisi-Matematica) | Prof. Grisanti | Teoria, schemi, eserciziari e prove | 🟢 |
+| **Y1 · S1** | [Algebra Lineare](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Algebra-Lineare) | *—* | Bibbia LaTeX, capitoli ed esercizi | 🟢 |
+| **Y1 · S1** | [Programmazione &amp; Lab 1](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Programmazione) | *—* | Codice C/JS ed esercitazioni | 🟢 |
+| **Y1 · S2** | [Algoritmica](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Algoritmica) | *—* | Bibbia LaTeX, strutture dati e algoritmi | 🟢 |
+| **Y1 · S2** | [Architettura degli Elaboratori](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-1/Architettura-Elaboratori) | *—* | Dispense, schemi ed esercizi | 🟢 |
+| **Y2 · S1** | [Paradigmi di Programmazione](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-2/Paradigmi-di-Programmazione) | Prof. Milazzo | Semantica, $\lambda$-calcolo, sistemi di tipi, Bibbia LaTeX | 🟡 In corso |
+| **Y2 · S1** | [Ricerca Operativa](https://github.com/Ilbroccolo/UniPi-Informatica/tree/main/Anno-2/Ricerca-Operativa) | Prof. Mencarelli | Modellazione PL/PLI, Simplesso, Grafi, Branch &amp; Bound, lezioni MD | 🟡 In corso |
 
 <br />
 
